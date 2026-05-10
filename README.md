@@ -1,3 +1,5 @@
+https://theascendancyparadox-officialsite.netlify.app/?fbclid=IwY2xjawRtzTpleHRuA2FlbQIxMABicmlkETE2aXU0Q1JUU0VxSDNUNnRLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnJmaVsqf6Iq9MXQp5JuJrb8Wjw6LESUrvdc7o83lLfp-Ce1Z1VrOFwfDIXX_aem_jlS17dXVnVRGulhijrE9ew
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
