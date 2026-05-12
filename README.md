@@ -17,23 +17,12 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<img width="1920" height="1200" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/7499175f-afaf-4c32-bc75-cb66a0c0262a" />
+<img width="1920" height="1200" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/f77db1d5-ec68-4c82-ad76-1413aa85c278" />
+<img width="1920" height="1200" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/2c961d95-219d-4f9a-bd24-4a30c59d1710" />
+<img width="1920" height="1200" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/fa669af5-3ef6-4fa1-97b9-c913c75e5c2c" />
+<img width="1920" height="1200" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/8de4934a-46cd-43eb-8aa9-dda47384abcb" />
+<img width="1920" height="1200" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/361871a5-37fb-4bc7-af55-51352299dac0" />
+<img width="1920" height="1200" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/7a54cd4a-353d-403e-9c6f-76341d1c738a" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
